@@ -1,0 +1,19 @@
+My Portfolio Website
+Welcome to my portfolio website! This repository contains the source code and assets for my personal portfolio, where you can explore my work, skills, and projects.
+
+Overview
+This portfolio website showcases my professional work, including web development projects, design work, and other relevant accomplishments.
+
+Features
+Responsive Design: Adapts to different screen sizes for an optimal viewing experience.
+Project Showcase: Displays detailed information about each project with images and descriptions.
+Contact Form: Allows visitors to easily get in touch with me.
+About Me: Provides information about my professional background and skills.
+
+Tools & Technologies
+Here are the main tools and technologies used in this project:
+
+HTML5: For structuring the content on the web pages.
+CSS3: For styling and layout, including responsive design techniques.
+JavaScript: For interactivity and dynamic content.
+GitHub Pages (Netlify): For deploying the website.
